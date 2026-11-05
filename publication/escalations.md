@@ -1,1 +1,0 @@
-[ESCALATION] FN-2026-041: CVE-2026-3117 patched in Ledger Core 4.2.1
