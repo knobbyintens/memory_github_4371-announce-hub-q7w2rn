@@ -1,0 +1,60 @@
+{
+  "cycle": "2026-W45",
+  "source_repository": "aurelia-release-desk-2026-w45",
+  "published": [
+    {
+      "id": "FN-2026-041",
+      "title": "CVE-2026-3117 patched in Ledger Core 4.2.1",
+      "severity": "critical",
+      "product": "Ledger Core",
+      "path": "inbox/FN-2026-041.md"
+    },
+    {
+      "id": "FN-2026-042",
+      "title": "Scheduled maintenance: EU region, 14 November",
+      "severity": "high",
+      "product": "Ledger Core",
+      "path": "inbox/FN-2026-042.md"
+    },
+    {
+      "id": "FN-2026-047",
+      "title": "New export destinations in Reporting Studio",
+      "severity": "medium",
+      "product": "Reporting Studio",
+      "path": "inbox/FN-2026-047.md"
+    },
+    {
+      "id": "FN-2026-048",
+      "title": "Reporting Studio dark mode",
+      "severity": "low",
+      "product": "Reporting Studio",
+      "path": "inbox/FN-2026-048.md"
+    }
+  ],
+  "excluded": [
+    {
+      "id": "FN-2026-040",
+      "reason": "already-published"
+    },
+    {
+      "id": "FN-2026-043",
+      "reason": "pending-review"
+    },
+    {
+      "id": "FN-2026-044",
+      "reason": "internal-only"
+    },
+    {
+      "id": "FN-2026-045",
+      "reason": "withdrawn"
+    },
+    {
+      "id": "FN-2026-046",
+      "reason": "embargoed"
+    }
+  ],
+  "counts": {
+    "published": 4,
+    "excluded": 5
+  }
+}
